@@ -1,5 +1,6 @@
 # Show-off-pxg
 
+![Giff](https://github.com/afabianoo/Show-off-pxg/blob/master/dailyCatch.gif) 
 
 ## Pré requisito
 
