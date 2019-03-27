@@ -64,7 +64,7 @@ function resetStoragesDailyCatch(cid)
 		201610181245,
 		201610181246
 	};
-	for x = 0, #storages do
+	for x = 1, #storages do
 		setPlayerStorageValue(cid, storages[x], 0)
 	end
 end
